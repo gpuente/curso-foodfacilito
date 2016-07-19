@@ -33,3 +33,26 @@ img{
 .espacio-derecha{
 	margin-right: 1em;
 }
+
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+
+.no-lista li{
+	list-style-type: none;
+}
+
+.back-gris{
+	background-color: #eee;
+}
+
+.padding-largo{
+	padding: 5px 10px;
+}
+
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
