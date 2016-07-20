@@ -2,7 +2,7 @@ body{
 	font-family: 'Lato', sans-serif; 
 }
 
-a{
+a, .azul{
 	color: #009FFF;
 }
 
@@ -15,7 +15,7 @@ img{
 }
 
 .espaciado-arriba{
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
 .pacifico{
@@ -32,6 +32,10 @@ img{
 
 .espacio-derecha{
 	margin-right: 1em;
+}
+
+.alinear-arriba{
+	vertical-align: top;
 }
 
 .no-lista{
